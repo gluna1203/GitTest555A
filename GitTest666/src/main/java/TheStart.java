@@ -5,8 +5,8 @@ public class TheStart {
 		
 		int x;
 		int y;
-		int x;
-		// more changes
+		int z;
+		// more changes....
 		
 	}
 
